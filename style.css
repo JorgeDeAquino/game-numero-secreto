@@ -45,3 +45,21 @@ h3 {
     margin: 20px;
 }
 
+.btn-jogar {
+    padding: 8px 15px;
+    border: 1px solid var(--primary-color);
+    background: var(--bg-color);
+    color: var(--primary-color);
+    border-radius: 5px;
+    margin-top: 20px;
+    opacity: 0.9;
+}
+
+.btn-jogar:active {
+    border: 1px solid var(--bg-color);
+    background: var(--primary-color);
+    color: var(--bg-color);
+}
+.btn-jogar:hover {
+    opacity: 1;
+}

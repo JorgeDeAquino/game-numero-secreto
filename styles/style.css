@@ -28,7 +28,7 @@ body .mensagem {
   margin-top: 2rem;
 }
 body .mensagem .box {
-  border: 2px solid #E8F9FD;
+  border: 1px solid #E8F9FD;
   display: inline-block;
   font-size: 3.7rem;
   margin: 20px;
